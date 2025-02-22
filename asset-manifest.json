@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arranjo-onibus-barra/static/css/main.7b3bb95e.css",
+    "main.js": "/arranjo-onibus-barra/static/js/main.d850d5d7.js",
+    "static/js/453.6cd36322.chunk.js": "/arranjo-onibus-barra/static/js/453.6cd36322.chunk.js",
+    "static/media/logo.svg": "/arranjo-onibus-barra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arranjo-onibus-barra/index.html",
+    "main.7b3bb95e.css.map": "/arranjo-onibus-barra/static/css/main.7b3bb95e.css.map",
+    "main.d850d5d7.js.map": "/arranjo-onibus-barra/static/js/main.d850d5d7.js.map",
+    "453.6cd36322.chunk.js.map": "/arranjo-onibus-barra/static/js/453.6cd36322.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3bb95e.css",
+    "static/js/main.d850d5d7.js"
+  ]
+}
