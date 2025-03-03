@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/arranjo-onibus-barra/static/css/main.0bbe8bcf.css",
-    "main.js": "/arranjo-onibus-barra/static/js/main.797a9341.js",
+    "main.js": "/arranjo-onibus-barra/static/js/main.5ea218fe.js",
     "static/js/453.6cd36322.chunk.js": "/arranjo-onibus-barra/static/js/453.6cd36322.chunk.js",
     "static/media/logo.svg": "/arranjo-onibus-barra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/arranjo-onibus-barra/index.html",
     "main.0bbe8bcf.css.map": "/arranjo-onibus-barra/static/css/main.0bbe8bcf.css.map",
-    "main.797a9341.js.map": "/arranjo-onibus-barra/static/js/main.797a9341.js.map",
+    "main.5ea218fe.js.map": "/arranjo-onibus-barra/static/js/main.5ea218fe.js.map",
     "453.6cd36322.chunk.js.map": "/arranjo-onibus-barra/static/js/453.6cd36322.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bbe8bcf.css",
-    "static/js/main.797a9341.js"
+    "static/js/main.5ea218fe.js"
   ]
 }
