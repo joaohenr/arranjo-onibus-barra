@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arranjo-onibus-barra/static/css/main.c7054084.css",
-    "main.js": "/arranjo-onibus-barra/static/js/main.6958a31a.js",
+    "main.css": "/arranjo-onibus-barra/static/css/main.81f2bbe4.css",
+    "main.js": "/arranjo-onibus-barra/static/js/main.1aa7ab06.js",
     "static/js/453.2a1d9871.chunk.js": "/arranjo-onibus-barra/static/js/453.2a1d9871.chunk.js",
     "static/media/busPointIcon.png": "/arranjo-onibus-barra/static/media/busPointIcon.737cd74cebbe1b9d06d1.png",
     "static/media/dollarIcon.png": "/arranjo-onibus-barra/static/media/dollarIcon.4d61b2bea8400dcf9444.png",
@@ -15,12 +15,12 @@
     "static/media/TheSeasonsRegular.otf": "/arranjo-onibus-barra/static/media/TheSeasonsRegular.2c9625941d4c89994b85.otf",
     "static/media/logo.svg": "/arranjo-onibus-barra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/arranjo-onibus-barra/index.html",
-    "main.c7054084.css.map": "/arranjo-onibus-barra/static/css/main.c7054084.css.map",
-    "main.6958a31a.js.map": "/arranjo-onibus-barra/static/js/main.6958a31a.js.map",
+    "main.81f2bbe4.css.map": "/arranjo-onibus-barra/static/css/main.81f2bbe4.css.map",
+    "main.1aa7ab06.js.map": "/arranjo-onibus-barra/static/js/main.1aa7ab06.js.map",
     "453.2a1d9871.chunk.js.map": "/arranjo-onibus-barra/static/js/453.2a1d9871.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7054084.css",
-    "static/js/main.6958a31a.js"
+    "static/css/main.81f2bbe4.css",
+    "static/js/main.1aa7ab06.js"
   ]
 }
